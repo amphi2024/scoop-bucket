@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "description": "Cross-platform music player with support for syncing libraries via a self-hosted server",
+  "homepage": "https://amphi.site",
+  "license": "Apache-2.0",
+  "architecture": {
+    "64bit": {
+      "url": "https://amphi.site/releases/music/music-windows-x64-1.0.0.zip",
+      "hash": "2396eb77ab811abd93a8a0a98c8532f3685ae8c99a7b07b59f87460405bfa4a3"
+    }
+  },
+  "bin": [
+    "music.exe",
+    [
+      "music.exe",
+      "Music"
+    ]
+  ],
+  "shortcuts": [
+    [
+      "music.exe",
+      "Music"
+    ]
+  ],
+  "checkver": {
+    "github": "amphi2024/music"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://amphi.site/releases/music/music-windows-x64-$version.zip"
+      }
+    }
+  }
+}
