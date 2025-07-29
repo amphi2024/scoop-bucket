@@ -7,7 +7,7 @@ This bucket contains Amphi’s custom apps for Windows, easily installable via S
 ### 1. Add Scoop Bucket (if you haven't already)
 
 ```powershell
-scoop bucket add scoop-bucket https://github.com/amphi2024/scoop-bucket
+scoop bucket add amphi-bucket https://github.com/amphi2024/scoop-bucket
 ```
 
 ### 2. Install Apps
