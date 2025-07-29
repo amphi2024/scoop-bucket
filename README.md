@@ -1,6 +1,6 @@
 # Amphi Apps Scoop Bucket
 
-This bucket contains Amphi’s custom apps for Windows, easily installable via Scoop.
+This is the custom Scoop bucket for Amphi apps.
 
 ## Installation
 
