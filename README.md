@@ -24,6 +24,12 @@ scoop install amphi-notes
 scoop install amphi-music
 ```
 
+#### Photos
+
+```powershell
+scoop install amphi-photos
+```
+
 ## Issues & Contributions
 
 If you encounter any problems or want to contribute, please open an issue or a pull request in the respective GitHub repositories:
