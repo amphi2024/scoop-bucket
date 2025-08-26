@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/amphi2024/photos/releases/download/v$version/Photos-$version-Windows-x64.zip",
+      "url": "https://github.com/amphi2024/photos/releases/download/v1.0.0/Photos-1.0.0-Windows-x64.zip",
       "hash": "243d9d6aec1878274f6f283356fda941ee4d632e0b3bd61b7f6facc8fb8887a4"
     }
   },
