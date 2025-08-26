@@ -35,3 +35,4 @@ scoop install amphi-photos
 If you encounter any problems or want to contribute, please open an issue or a pull request in the respective GitHub repositories:
 - [Notes](https://github.com/amphi2024/notes)
 - [Music](https://github.com/amphi2024/music)
+- [Photos](https://github.com/amphi2024/photos)
