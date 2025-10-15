@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/amphi2024/cloud/releases/download/v1.0.0/Cloud-1.0.0-Windows-x64.zip",
-      "hash": "2396eb77ab811abd93a8a0a98c8532f3685ae8c99a7b07b59f87460405bfa4a3"
+      "hash": "95420b67c22320fff2afabcde4d58d170bd56a2433e3dfdcbb83f5ae53d8f258"
     }
   },
   "bin": [
