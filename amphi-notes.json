@@ -1,12 +1,12 @@
 {
-  "version": "1.1.1",
+  "version": "2.0.0",
   "description": "Cross-platform note-taking app that enables users to sync their data with a self-hosted server",
   "homepage": "https://amphi.site",
-  "license": "Apache-2.0",
+  "license": "GPL-3.0-or-later",
   "architecture": {
     "64bit": {
-      "url": "https://amphi.site/releases/notes/notes-windows-x64-1.1.1.zip",
-      "hash": "eab4b3f9e15dde8885c821c022d39d7b043b0d0eac89df0ac64921be664fa1b2"
+      "url": "https://github.com/amphi2024/notes/releases/download/v2.0.0/Notes-2.0.0-Windows-x64.zip",
+      "hash": "29d2fd08844f51d86292092b55cb4007559e62c53ddf6b15e9603228df3acc7d"
     }
   },
   "bin": [
@@ -28,7 +28,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://amphi.site/releases/notes/notes-windows-x64-$version.zip"
+        "url": "https://github.com/amphi2024/notes/releases/download/v$version/Notes-$version-Windows-x64.zip"
       }
     }
   }
