@@ -1,12 +1,12 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Cross-platform music player with support for syncing libraries via a self-hosted server",
   "homepage": "https://amphi.site",
   "license": "GPL-3.0-or-later",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/amphi2024/music/releases/download/v2.0.0/Music-2.0.0-Windows-x64.zip",
-      "hash": "f4ce79fa50b87e22183ed4481e32ca23f5bf1798e184be5390b7660e368409e4"
+      "url": "https://github.com/amphi2024/music/releases/download/v2.1.0/Music-2.1.0-Windows-x64.zip",
+      "hash": "7acd5c289b600c187c172e5873a302dff0e7fff60f937d86925c80801243ec8d"
     }
   },
   "bin": [
