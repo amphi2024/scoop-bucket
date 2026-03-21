@@ -1,12 +1,12 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Cross-platform photos app with self-hosted sync",
   "homepage": "https://amphi.site",
   "license": "GPL-3.0-or-later",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/amphi2024/photos/releases/download/v2.0.0/Photos-2.0.0-Windows-x64.zip",
-      "hash": "d07f5ae7f1b783d4e6db2c9c02d06138fd5ee4d12c7a44150cf49c1958d80b3e"
+      "url": "https://github.com/amphi2024/photos/releases/download/v2.1.0/Photos-2.1.0-Windows-x64.zip",
+      "hash": "7f75a805fb0eda75eff5551f7db3f580fa50c1e79f6faa1705a208ca9f64ff6a"
     }
   },
   "bin": [
